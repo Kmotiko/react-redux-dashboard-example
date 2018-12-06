@@ -1,0 +1,17 @@
+{
+  "presets": [
+    "es2015",
+    "es2017",
+    "react",
+    "stage-0"
+  ],
+  "plugins": [
+    "react-hot-loader/babel",
+    "syntax-async-functions",
+    "transform-async-to-generator",
+    "transform-regenerator",
+    "transform-decorators-legacy",
+    "transform-export-extensions",
+    "transform-runtime"
+  ]
+}
